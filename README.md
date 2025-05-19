@@ -9,4 +9,4 @@ source myenv/bin/activate
 
 pip install -r requirements.txt
 
-python3 TelegramTI.py --api_id <API ID> --api_hash <API HASH> --phone <Phone nr. international format>
+python3 TelegramTI.py --api_id \<API ID\> --api_hash \<API HASH\> --phone \<Phone nr. international format\>
